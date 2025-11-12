@@ -8,5 +8,5 @@ The lists includes fossils used in published dating analyses:
   - TreeFern Bed: fossil tree ferns use for calibration of the tree in [Ramírez-Barahona](https://doi.org/10.1093/evolut/qpae034) (2021) Incorporating fossils into the joint inference of phylogeny and biogeography of the tree fern order Cyatheales. Evolution 78.
 - Salamander Member: fossil salamanders use for calibration of the tree in [Ramírez-Barahona et al.](https://link.springer.com/article/10.1186/s42523-023-00271-7) (2023) Host phylogeny and environment shape the diversity of salamander skin bacterial communities. Animal Microbiome 5.
 
-  
-
+If using all or some of these data please cite the corresponding publications and the repository:
+- Ramírez-Barahona (2025) Virtual Formation: a list of fossil calibrations for dating. GitHub. Retrieved from https://github.com/spiritu-santi/Virtual-Formation (Accessed: date accessed).
